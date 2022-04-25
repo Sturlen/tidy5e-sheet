@@ -4966,9 +4966,6 @@
 }
 
 .tidy5e.sheet.actor.npc .center-pane .features {
-  -webkit-box-flex: 0;
-      -ms-flex: 0;
-          flex: 0;
   border-bottom: 1px solid var(--light-color);
   margin-bottom: 4px;
 }
